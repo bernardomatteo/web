@@ -1,0 +1,20 @@
+# OJO: .build/ NO va acá. Esa carpeta es fuente, no salida: los *.body.html
+# son la única copia del contenido de cada página interna y los .sh son los
+# scripts del proyecto. Lo único descartable son estos dos intermedios, que
+# build.sh regenera a partir de index.html en cada corrida.
+.build/head.part
+.build/foot.part
+
+# Panel de administración: es una herramienta local, no parte del sitio
+# publicado. No se sube a GitHub. Lo que SÍ se sube es el resultado de
+# usarlo: assets/js/productos.js y las fotos en assets/img/productos/.
+admin.html
+assets/js/admin.js
+administrar.bat
+publicar.bat
+productos-respaldo-*.js
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
