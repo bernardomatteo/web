@@ -1,6 +1,6 @@
 /* ===========================================================
    Catalogo de piezas.
-   Generado por admin.html el 30/10/2026, 12:25:27 a. m..
+   Generado por admin.html el 30/10/2026, 12:31:04 a. m..
    Se puede editar a mano respetando el formato.
    =========================================================== */
 
@@ -14,7 +14,7 @@ const PRODUCTOS = [
   { slug: "maxima", nombre: "Máxima", cat: "azulejos", precio: 150, precioHasta: 270, medida: "Azulejo 10 x 10 cm", img: "maxima.jpg" },
   { slug: "mediterraneo", nombre: "Mediterráneo", cat: "azulejos", precio: 150, precioHasta: 270, medida: "Azulejo 10 x 10 cm", img: "mediterraneo.jpg" },
   { slug: "primavera", nombre: "Primavera", cat: "azulejos", precio: 270, medida: "Azulejo 15 x 15 cm", img: "primavera.jpg" },
-  { slug: "sacramento", nombre: "Sacramento", cat: "azulejos", precio: 270, medida: "Azulejo 10 x 10 cm", img: "sacramento.jpg" },
+  { slug: "sacramento", nombre: "Sacramento", cat: "azulejos", precio: 270, medida: "Azulejo 15 x 15 cm", img: "sacramento.jpg" },
   { slug: "barcas", nombre: "Barcas", cat: "cuadros", precio: 1400, medida: "Cuadro cerámico", img: "barcas.jpg" },
   { slug: "buho", nombre: "Búho", cat: "cuadros", precio: 1400, medida: "Cuadro cerámico", img: "buho.jpg" },
   { slug: "candombero", nombre: "Candombero", cat: "cuadros", precio: 1400, medida: "Cuadro cerámico", img: "candombero.jpg" },
