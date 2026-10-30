@@ -11,6 +11,7 @@
 admin.html
 assets/js/admin.js
 administrar.bat
+admin-servidor.py
 publicar.bat
 productos-respaldo-*.js
 
