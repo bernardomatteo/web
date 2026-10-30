@@ -396,6 +396,8 @@
   document.addEventListener('DOMContentLoaded', () => {
     iniciarNav();
     iniciarDestacados();
+    // El editor de la portada (admin-portada.html) lo dispara al cambiar las piezas elegidas.
+    document.addEventListener('destacados:actualizar', iniciarDestacados);
     iniciarCatalogo();
     iniciarConsulta();
     iniciarGaleria();

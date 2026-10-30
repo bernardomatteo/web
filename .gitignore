@@ -7,9 +7,14 @@
 
 # Panel de administración: es una herramienta local, no parte del sitio
 # publicado. No se sube a GitHub. Lo que SÍ se sube es el resultado de
-# usarlo: assets/js/productos.js y las fotos en assets/img/productos/.
+# usarlo: assets/js/productos.js, assets/js/datos.js, index.html y las
+# fotos en assets/img/productos/, assets/img/portada/ y assets/img/galeria/.
 admin.html
+admin-portada.html
+admin-galeria.html
 assets/js/admin.js
+assets/js/admin-portada.js
+assets/js/admin-galeria.js
 administrar.bat
 admin-servidor.py
 publicar.bat
