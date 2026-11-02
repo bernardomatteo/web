@@ -21,7 +21,7 @@ const CATEGORIAS = [
   { id: 'logos', nombre: 'Logos' }
 ];
 /* Galeria. coleccion: 'logos' | 'casas' (una pieza puede estar en ambas).
-   Generada por admin-galeria.html el 30/10/2026 20:42. */
+   Generada por admin-galeria.html el 01/11/2026 21:28. */
 const GALERIA = [
   { img: "img-20230812-wa0005.jpg", alt: "Azulejería de autor en interior", coleccion: ["casas"] },
   { img: "20240418-202201.jpg", alt: "Logo cerámico Los Cuervos Rugby", coleccion: ["logos"] },
@@ -45,9 +45,9 @@ const GALERIA = [
   { img: "20240411-232141.jpg", alt: "Detalle de azulejería artesanal", coleccion: ["casas"] },
   { img: "20240412-091221.jpg", alt: "Cerámica aplicada en establecimiento", coleccion: ["casas"] },
   { img: "20240412-092727.jpg", alt: "Composición de azulejos pintados a mano", coleccion: ["casas"] },
-  { img: "20240413-163305.jpg", alt: "Azulejería en cocina", coleccion: ["casas"] },
-  { img: "20240413-182819.jpg", alt: "Panel cerámico decorativo", coleccion: ["casas"] },
-  { img: "20240413-184757.jpg", alt: "Mural de azulejos a medida", coleccion: ["casas"] },
+  { img: "azulejeria-en-cocina-mvyiol1w.jpg", alt: "Azulejería en cocina", coleccion: ["casas"] },
+  { img: "panel-ceramico-decorativo-mvyioxur.jpg", alt: "Panel cerámico decorativo", coleccion: ["casas"] },
+  { img: "mural-de-azulejos-a-medida-mvyipo4p.jpg", alt: "Azulejo Aranjuez aplicado en una cocina", coleccion: ["casas"] },
   { img: "20240413-184757-1.jpg", alt: "Detalle de mural de azulejos", coleccion: ["casas"] },
   { img: "20240414-174802.jpg", alt: "Azulejos decorativos en interior", coleccion: ["casas"] },
   { img: "20240414-224255.jpg", alt: "Cerámica artesanal en fachada", coleccion: ["casas"] },
@@ -68,9 +68,9 @@ const GALERIA = [
   { img: "img-20210724-wa0006.jpg", alt: "Mural de cerámica artesanal", coleccion: ["casas"] },
   { img: "img-20220227-wa0002.jpg", alt: "Pieza cerámica a medida", coleccion: ["casas"] },
   { img: "img-20230812-wa0006.jpg", alt: "Composición de azulejos de autor", coleccion: ["casas"] },
-  { img: "imagen-de-whatsapp-2024-04-12-a-las-12-15-48-2c683924.jpg", alt: "Proyecto cerámico a medida", coleccion: ["casas"] },
+  { img: "imagen-de-whatsapp-2024-04-12-a-las-12-15-48-2c683924.jpg", alt: "Posada Manuel Lobo - Colonia", coleccion: ["casas"] },
   { img: "20240414-001950.jpg", alt: "Pieza única de cerámica", coleccion: [] },
-  { img: "20240414-171710.jpg", alt: "Cerámica decorada a mano", coleccion: [] },
+  { img: "ceramica-decorada-a-mano-mvyir4mu.jpg", alt: "Cerámica decorada a mano", coleccion: [] },
   { img: "20240414-182820.jpg", alt: "Azulejo pintado en cuerda seca", coleccion: [] },
   { img: "img-20221104-wa0000.jpg", alt: "Trabajo de azulejería de autor", coleccion: [] }
 ];
