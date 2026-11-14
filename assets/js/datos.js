@@ -21,7 +21,7 @@ const CATEGORIAS = [
   { id: 'logos', nombre: 'Logos' }
 ];
 /* Galeria. coleccion: 'logos' | 'casas' (una pieza puede estar en ambas).
-   Generada por admin-galeria.html el 14/11/2026 16:58. */
+   Generada por admin-galeria.html el 14/11/2026 18:54. */
 const GALERIA = [
   { img: "img-20230812-wa0005.jpg", alt: "Azulejería de autor en interior", coleccion: ["casas"] },
   { img: "posada-manuel-lobo-colonia-mwgtskp5.jpg", alt: "Posada Manuel Lobo - Colonia", coleccion: ["logos"] },
@@ -34,13 +34,13 @@ const GALERIA = [
   { img: "20240413-194123.jpg", alt: "Logo cerámico sobre placa", coleccion: ["logos"] },
   { img: "20240414-214218.jpg", alt: "Logo cerámico personalizado", coleccion: ["logos"] },
   { img: "20240414-235841.jpg", alt: "Logo cerámico esmaltado", coleccion: ["logos"] },
-  { img: "20240420-175712.jpg", alt: "Logo cerámico aplicado en muro", coleccion: ["logos", "casas"] },
+  { img: "cocina-con-diseno-aranjuez-mwgxvnwn.jpg", alt: "Cocina con diseño Aranjuez", coleccion: ["casas"] },
   { img: "colegio-integral-solymar.jpg", alt: "Logo cerámico Colegio Integral Solymar", coleccion: ["logos"] },
   { img: "triumph.jpg", alt: "Logo cerámico Triumph", coleccion: ["logos"] },
   { img: "vida-silvestre.jpg", alt: "Logo cerámico Vida Silvestre", coleccion: ["logos"] },
   { img: "20240411-213944.jpg", alt: "Azulejería aplicada en vivienda", coleccion: ["casas"] },
-  { img: "20240411-230629.jpg", alt: "Mural cerámico en espacio interior", coleccion: ["casas"] },
-  { img: "20240411-231942.jpg", alt: "Azulejos de autor en pared", coleccion: ["casas"] },
+  { img: "mural-ceramico-en-espacio-interior-mwgxxxk9.jpg", alt: "Mural cerámico en espacio interior", coleccion: ["casas"] },
+  { img: "azulejos-de-autor-en-pared-mwgy0744.jpg", alt: "Azulejos de autor en pared", coleccion: ["casas"] },
   { img: "20240411-232141.jpg", alt: "Detalle de azulejería artesanal", coleccion: ["casas"] },
   { img: "20240412-091221.jpg", alt: "Cerámica aplicada en establecimiento", coleccion: ["casas"] },
   { img: "20240412-092727.jpg", alt: "Composición de azulejos pintados a mano", coleccion: ["casas"] },
